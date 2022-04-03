@@ -4,7 +4,7 @@ is taken from NYC open data. This project analysis the HIV/AIDS cases of NYC thr
 The language used in this project was Python and various libraries like Pandas and Numpy were used to do the analysis. The purpose of this 
 project was to answer the questions raised during the project proposal. The questions are given below.
 
-1.Which sex/gender was most infected by HIV/AIDS in the year of 2013.
+1.Which sex/gender was most infected by HIV/AIDS in the year of 2013?
 2.What are the total number of female/male patients in each sex category?
 3.Which race/ethnicity was most infected. Which race has the least?
 4.What are the neighborhoods that have the most infected HIV patients and what neighborhood 
